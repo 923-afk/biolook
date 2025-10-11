@@ -1,0 +1,14 @@
+torch
+torchvision
+timm
+albumentations
+opencv-python
+pillow
+requests
+tqdm
+scikit-learn
+numpy
+pandas
+# optional: accelerate distributed training later
+
+
